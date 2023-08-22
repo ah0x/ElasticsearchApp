@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "RHIcPRMNVZrUQhV+eCvfHnQO+RYbnhdsu7wy7CrSEtE=",
+  "Source": "ElasticsearchApp",
+  "BasePath": "_content/ElasticsearchApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ElasticsearchApp\\wwwroot",
+      "Source": "ElasticsearchApp",
+      "ContentRoot": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\",
+      "BasePath": "_content/ElasticsearchApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\css\\styles.css",
+      "SourceId": "ElasticsearchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\",
+      "BasePath": "_content/ElasticsearchApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\images\\DeffultImage.jpg",
+      "SourceId": "ElasticsearchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\",
+      "BasePath": "_content/ElasticsearchApp",
+      "RelativePath": "images/DeffultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DeffultImage.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\js\\script.js",
+      "SourceId": "ElasticsearchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\",
+      "BasePath": "_content/ElasticsearchApp",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\Movies\\Index.html",
+      "SourceId": "ElasticsearchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Hamza\\source\\repos\\ElasticsearchApp\\ElasticsearchApp\\wwwroot\\",
+      "BasePath": "_content/ElasticsearchApp",
+      "RelativePath": "Movies/Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Movies\\Index.html"
+    }
+  ]
+}
